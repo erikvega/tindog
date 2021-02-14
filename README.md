@@ -1,2 +1,2 @@
-# tindog2020ev
-website that i made for practice using bootstrap
+# tindog
+a simple website that utilizes bootstrap to build a theoretical dating app for dogs 
